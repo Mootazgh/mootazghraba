@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mootazghraba/static/css/main.8e5c68ed.css",
+    "main.js": "/mootazghraba/static/js/main.15c476c6.js",
+    "static/media/Untitled-1.png": "/mootazghraba/static/media/Untitled-1.09f106fc67a96037f081.png",
+    "static/media/helvetica-neu.ttf": "/mootazghraba/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/mootazghraba/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/mootazghraba/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/github.svg": "/mootazghraba/static/media/github.6d4f8d6e9335a6ad1b70714b46fcc88d.svg",
+    "index.html": "/mootazghraba/index.html",
+    "static/media/linkedin.svg": "/mootazghraba/static/media/linkedin.757885027fecebeb343266fa5ae768cd.svg",
+    "main.8e5c68ed.css.map": "/mootazghraba/static/css/main.8e5c68ed.css.map",
+    "main.15c476c6.js.map": "/mootazghraba/static/js/main.15c476c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e5c68ed.css",
+    "static/js/main.15c476c6.js"
+  ]
+}
