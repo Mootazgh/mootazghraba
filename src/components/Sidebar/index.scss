@@ -118,3 +118,68 @@
         }
     }
 }
+@media screen and (max-width: 768px) {
+    .nav-bar {
+        display: none;
+
+    }
+    .resSB {
+        background-color: #181818;
+       
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    top: 0;
+    z-index: 3;
+    right: 0;
+    left: 0;
+    }
+    .newNav {
+        height: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-left: 20px;
+        margin-right: 20px;
+        align-items: center;
+         margin-top: 5px;
+        .logo {
+           
+            padding: 8px 0 ;
+            text-decoration: none;
+        }
+        .mootaz {
+            color: white;
+            font-size: 30px;
+            font-weight: 400;
+            padding-left: 10px;
+            margin-top: 30px;
+
+        }
+        .mootaz::first-letter {
+            color: yellow;
+            font-size: 40px;
+            font-weight: bold;
+            font-family: 'La Belle Aurore';
+            
+        }
+       
+        nav {
+           display: flex;
+           
+            a {
+                font-size: 30px;
+                color: #4d4d4e;
+                
+                line-height: 51px;
+                
+                line-height: 51px;
+                margin-left: 35px;
+               
+                
+               
+                
+            }
+    }
+}
+}

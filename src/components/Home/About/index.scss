@@ -5,7 +5,10 @@
         display: grid;
           margin-top: 150px;
          grid-template-columns: repeat(auto-fill,minmax(50% ,1fr));
-           
+           .skills {
+            display: grid;
+            grid-template-columns: repeat(auto-fill,minmax(50%,1fr));
+           }
 
    }
 }
@@ -88,5 +91,44 @@ p {
     }
     66% {
         transform: rotateY(90deg) 
+    }
+}
+
+@media (max-width: 768px) {
+    .about-page {
+        width: 100%;
+    will-change: contents;
+    height: 90%;
+    min-height: 566px;
+    position: absolute;
+    opacity: 0;
+    top: -5%;
+    
+    margin: 0 auto;
+    z-index: 1;
+    transform-style: preserve-3d;
+    animation: fadeIn 1s forwards;
+    animation-delay: 1s;
+    }
+    .about-page .about {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 250px;
+        // grid-template-columns: 1fr;
+        .text-zone {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+        .stage-cube-cont{
+              /* margin-top: 40px; */
+              display: none;
+   
+            .cubespinner {
+                display: none;
+   
+
+            }
+        }
     }
 }

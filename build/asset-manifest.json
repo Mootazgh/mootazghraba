@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ghraba/static/css/main.f6f5b179.css",
+    "main.js": "/ghraba/static/js/main.924ae5d9.js",
+    "static/media/Untitled-1.png": "/ghraba/static/media/Untitled-1.09f106fc67a96037f081.png",
+    "static/media/helvetica-neu.ttf": "/ghraba/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/ghraba/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/ghraba/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/github.svg": "/ghraba/static/media/github.6d4f8d6e9335a6ad1b70714b46fcc88d.svg",
+    "index.html": "/ghraba/index.html",
+    "static/media/linkedin.svg": "/ghraba/static/media/linkedin.757885027fecebeb343266fa5ae768cd.svg",
+    "main.f6f5b179.css.map": "/ghraba/static/css/main.f6f5b179.css.map",
+    "main.924ae5d9.js.map": "/ghraba/static/js/main.924ae5d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f5b179.css",
+    "static/js/main.924ae5d9.js"
+  ]
+}

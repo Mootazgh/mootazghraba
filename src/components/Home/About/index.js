@@ -40,17 +40,22 @@ const About = () => {
             I'm quietly confident, naturally curious, and always working on
             improving my skills.
           </p>
-          <p>
-            I bring a versatile skill set with expertise in both front-end and
-            back-end development. Proficient in React.js for dynamic and
-            responsive user interfaces, I excel in Node.js for robust
-            server-side development. My database proficiency extends to MongoDB,
-            ensuring efficient and scalable data management. Additionally, I'm
-            adept in Java and Python, using these languages for application
-            development. I also showcase mobile development prowess, utilizing
-            Android Studio to create powerful and user-friendly mobile
-            applications.
-          </p>
+          <h1>Skills</h1>
+          <div className="skills">
+            <ul className="ul1">
+              <li>HTML / CSS</li>
+              <li>JavaScript</li>
+              <li>React </li>
+              <li>Node.js</li>
+            </ul>
+            <ul className="ul2">
+              <li>Express.js</li>
+              <li>MongoDB</li>
+              <li>Python / Java</li>
+
+              <li>Android Studio</li>
+            </ul>
+          </div>
           <p></p>
         </div>
         <div className="stage-cube-cont">

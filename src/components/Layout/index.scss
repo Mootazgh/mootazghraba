@@ -14,7 +14,7 @@
     color: #ffd700; 
     opacity: 0.6;
     position: absolute;
-    bottom: 0;
+    bottom: 100px;
     left: 200px;
     font-size: 23px;
     padding-top: 25px;
@@ -31,7 +31,7 @@
     min-height: 566px;
     position: absolute;
     opacity: 0;
-    top: 5%;
+    
     margin: 0 auto;
     z-index: 1;
     transform-style: preserve-3d;
@@ -101,4 +101,18 @@
 .home-page {
     position: absolute;
     left: 5%;
+}
+
+@media screen and (max-width: 768px) { 
+    .tags {
+        color: #ffd700; 
+        opacity: 0.6;
+        position: absolute;
+        bottom: 100px;
+        left: 50px;
+        font-size: 23px;
+        padding-top: 25px;
+        font-family: 'La Belle Aurore';
+    }
+
 }

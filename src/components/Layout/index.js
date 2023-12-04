@@ -5,7 +5,6 @@ import './index.scss'
 const Layout = () => {
   return (
     <div>
-      <Sidebar></Sidebar>
       <div className="page">
         <span className="tags top-tags">&lt;body&gt;</span>
 

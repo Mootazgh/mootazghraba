@@ -73,6 +73,7 @@
              border-radius: 4px;
              padding: 20px;
              cursor: pointer;
+             
              &:hover {
                 background-color: rgb(7, 4, 4);
              }
@@ -80,3 +81,16 @@
      }
      }
 }
+@media (max-width: 768px) {
+    .contact-page {
+        .text-zone {
+            transform: translateY(30%);
+            margin-left: 10%;
+            margin-right: 10%;
+            margin-top: 25%;
+            height: 50%;
+            margin-bottom: 25%;
+            width: 80%;
+        }
+    }
+  }
